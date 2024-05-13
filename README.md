@@ -1,6 +1,6 @@
 My Name Is Chancedashie,
 
-Im A Currently Learning Python, C#, C++, Java, And Kotlin
+Im Currently Learning Python, C#, C++, Java, And Kotlin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chancedashie-GGGG)](https://github.com/anuraghazra/github-readme-stats)
 <!---
